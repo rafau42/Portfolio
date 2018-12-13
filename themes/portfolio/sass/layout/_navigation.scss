@@ -1,0 +1,82 @@
+.sticky {
+  position: fixed;
+  width: 100%;
+  max-width: 128rem;
+  background-color: $color-blue-darker;
+  z-index: 3;
+  transition: all 1s;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-image: linear-gradient(
+    to left bottom,
+    rgba($color-blue-darker, 0.4),
+    rgba($color-blue-darker, 0.1)
+  );
+
+  &__logo {
+    height: 8rem;
+    width: auto;
+    margin-left: 3rem;
+    filter: brightness(2.4);
+  }
+
+  &__list {
+    display: flex;
+    margin: 0;
+    background-color: inherit;
+    @include respond(under700) {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      padding: 0;
+      top: 8.3rem;
+      right: 0.2rem;
+    }
+  }
+
+  &__item {
+    @include respond(under700) {
+      padding: 2rem 4rem;
+      border-bottom: 0.2rem solid white;
+    }
+  }
+
+  &__link {
+    margin-right: 3rem;
+    border-bottom: 0.2rem solid transparent;
+    font-size: 24px;
+
+    &:hover,
+    &:focus {
+      border-bottom: 0.2rem solid white;
+    }
+    
+    @include respond(under700) {
+      margin: 0;
+      font-size: 18px;
+    }
+  }
+
+  &__toggle {
+    display: none;
+    background-color: transparent;
+    border: 0;
+    padding: 0;
+    margin: 0 2.5rem 0 0;
+    cursor: pointer;
+
+    @include respond(under700) {
+     display: block;
+    }
+  }
+
+  &__icon {
+    font-size: 20px;
+    color: $color-white;
+  }
+}

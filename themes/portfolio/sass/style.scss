@@ -1,0 +1,21 @@
+/*!
+Theme Name: Example Portfolio
+Author: Rafał Woszczak
+Version: 1.0
+*/
+
+/*! Tested Resolutions: 320px - 1280 px
+Tested browsers: Google Chrome, Mozilla Firefox, IE11 */
+
+
+@import "abstracts/mixins";
+@import "abstracts/variables";
+@import "base/base";
+@import "base/typography";
+@import "layout/navigation";
+@import "layout/header";
+@import "layout/about";
+@import "layout/projects"; 
+@import "layout/contact";
+@import "components/card";
+@import "components/contact-form";

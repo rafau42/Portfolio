@@ -1,0 +1,38 @@
+.contact {
+  position: relative;
+  background-color: $color-blue-darker;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-bottom: 4rem;
+
+  &__heading {
+    width: 100%;
+    padding: 4rem 0 2rem 0;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  &__icon {
+    position: absolute;
+    top: 33%;
+    right: 25%;
+    font-size: 90px;
+
+    @include respond(under1000) {
+      font-size: 85px;
+    }
+
+    @include respond(under900) {
+      right: 15%;
+    }
+
+    @include respond(under700) {
+      right: 12%;
+    }
+
+    @include respond(under600) {
+      display: none;
+    }
+  }
+}

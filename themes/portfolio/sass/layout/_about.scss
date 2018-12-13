@@ -1,0 +1,93 @@
+.about-me {
+  padding-top: 3rem;
+  background-image: url("images/b8.png");
+  border-left: 0.4rem solid $color-blue-light;
+  border-right: 0.4rem solid $color-blue-light;
+  color: $color-black;
+
+  &__container {
+    width: 90%;
+    margin: 0 auto;
+    @include clearFix;
+
+    @include respond(under700) {
+      width: 90%;
+    }
+  }
+
+  &__author-photo {
+    float: left;
+    width: 30%;
+    padding: 0 30px 30px 0;
+    border-radius: 10%;
+
+    @include respond(under900) {
+      width: 40%;
+    }
+
+    @include respond(under700) {
+      width: 70%;
+      margin: 0 15%;
+      padding: 30px 0;
+    }
+  }
+
+  &__paragraph {
+    margin-bottom: 4rem;
+    font-size: 20px;
+
+    @include respond(under600) {
+      font-size: 18px;
+    }
+
+    @include respond(under600) {
+      font-size: 16px;
+    }
+
+    > p {
+      margin-top: 1rem;
+    }
+  }
+}
+
+.skills {
+  border-top: 0.4rem solid $color-blue-light;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-bottom: 6rem;
+
+  &__heading {
+    width: 100%;
+    padding: 2rem 0;
+    font-size: 30px;
+    text-align: center;
+
+    @include respond(under1000) {
+      padding: 0;
+    }
+  }
+
+  &__icon {
+    display: block;
+
+    margin: 30px auto;
+    font-size: 12rem;
+    text-align: center;
+
+    @include respond(under500) {
+      font-size: 10rem;
+    }
+    @include respond(under400) {
+      font-size: 9rem;
+    }
+
+    &--one-four {
+      width: 25%;
+    }
+
+    &--one-third {
+      width: 33%;
+    }
+  }
+}

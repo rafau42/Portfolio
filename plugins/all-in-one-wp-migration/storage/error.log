@@ -1,0 +1,93 @@
+Dec 13 2018 17:12:17
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/readme.html): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:17
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-activate.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:17
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/about.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:17
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/css\/dashboard-rtl.css): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:17
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/css\/dashboard-rtl.min.css): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:17
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/css\/dashboard.css): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:17
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/css\/dashboard.min.css): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/includes\/ajax-actions.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/includes\/class-wp-screen.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/includes\/misc.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/includes\/post.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/includes\/update-core.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/load-scripts.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/load-styles.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-admin\/post.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/class-wp-image-editor.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/class-wp-term-query.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/class-wp.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/embed.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/functions.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/general-template.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/js\/wp-embed.js): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/js\/wp-embed.min.js): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/kses.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/meta.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/ms-deprecated.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/pomo\/plural-forms.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/post.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/rest-api\/endpoints\/class-wp-rest-terms-controller.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-includes\/version.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+
+Dec 13 2018 17:12:18
+{"Number":2,"Message":"fopen(\/app\/public\/wp-content\/upgrade\/wordpress-4.9.9-partial-8-8I5ZGX\/wordpress\/wp-login.php): failed to open stream: No such file or directory","File":"\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":68}
+

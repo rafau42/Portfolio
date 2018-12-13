@@ -1,0 +1,53 @@
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background: linear-gradient(
+    to left top,
+    rgba($color-blue-dark, 1),
+    rgba($color-blue-darker, 3)
+  );
+
+  @include respond(under700) {
+    flex-direction: column;
+  }
+
+  @media screen\0 {
+        justify-content:space-around;
+  }
+
+  &__heading {
+    display: block;
+    width: 100%;
+    padding: 3rem 0 5rem 0;
+    font-size: 30px;
+    text-align: center;
+
+    @include respond(under1000) {
+      padding: 0;
+    }
+  }
+
+  &__card-wrap {
+    width: 40%;
+    padding-bottom: 4rem;
+
+    @include respond(under1200) {
+      width: 45%;
+    }
+    @include respond(under700) {
+      width: 65%;
+      margin: 0.5rem auto;
+    }
+    @include respond(under600) {
+      width: 70%;
+    }
+    @include respond(under500) {
+      width: 80%;
+    }
+
+    @include respond(under400) {
+      width: 95%;
+    }
+  }
+}
